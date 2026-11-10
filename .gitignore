@@ -1,0 +1,6 @@
+# The .ipa files are distributed as GitHub release assets (…/releases/download/v1/*.ipa),
+# not tracked in this repo (they exceed GitHub's 100MB-per-file limit).
+/ipa/
+
+# Local backup of the manifest
+apps.json.bak-*

@@ -1,0 +1,130 @@
+{
+  "name": "Clev's Source",
+  "identifier": "com.clev34.sidestore",
+  "subtitle": "Private sideload source",
+  "description": "Personal SideStore source hosted on GitHub Pages (Clev34/Sidestore).",
+  "website": "https://clev34.github.io/Sidestore/",
+  "iconURL": "https://clev34.github.io/Sidestore/icons/logo.png",
+  "apps": [
+    {
+      "name": "Twitter (NeoFreeBird)",
+      "bundleIdentifier": "com.atebits.Tweetie2",
+      "developerName": "orionblur / BHTwitter",
+      "subtitle": "Twitter with NeoFreeBird + BHTwitter tweaks",
+      "localizedDescription": "Twitter 12.39 patched with NeoFreeBird 7.3.1 (pre-2023 branding, no ads, Blue features) and BHTwitter.",
+      "iconURL": "https://clev34.github.io/Sidestore/icons/twitter.png",
+      "tintColor": "#1DA1F2",
+      "category": "social",
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "12.39",
+          "buildVersion": "20",
+          "date": "2026-10-28",
+          "localizedDescription": "NeoFreeBird 7.3.1 + BHTwitter sideloaded build (12.39).",
+          "downloadURL": "https://github.com/Clev34/Sidestore/releases/download/v1/twitter-12.39.ipa",
+          "size": 273601732,
+          "minOSVersion": "15.0"
+        }
+      ]
+    },
+    {
+      "name": "YouTube (MaxTube)",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "developerName": "MaxTube",
+      "subtitle": "YouTube with MaxTube tweak",
+      "localizedDescription": "YouTube with the MaxTube (YTPlusM) tweak - ad-free, background play, PiP, and extras. Two builds available - select a version: 21.40.5 (needs iOS 17+) or 20.21.6 (runs on iOS 15.0+, use this on older devices like the iPhone 6s).",
+      "iconURL": "https://clev34.github.io/Sidestore/icons/youtube.png",
+      "tintColor": "#FF0000",
+      "category": "photo-video",
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "21.40.5",
+          "buildVersion": "21.40.5",
+          "date": "2026-10-06",
+          "localizedDescription": "MaxTube 6.0b2 on YouTube 21.40.5 base. Latest build. Requires iOS 17+.",
+          "downloadURL": "https://github.com/Clev34/Sidestore/releases/download/v1/youtube-21.40.5.ipa",
+          "size": 148249360,
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "20.21.6",
+          "buildVersion": "20.21.6",
+          "date": "2026-10-06",
+          "localizedDescription": "MaxTube 6.0b2 on YouTube 20.21.6 base - the last YouTube version that supports iOS 15. Select this version to install on iOS 15 devices (e.g. iPhone 6s on iOS 15.x).",
+          "downloadURL": "https://github.com/Clev34/Sidestore/releases/download/v1/youtube-20.21.6.ipa",
+          "size": 130156635,
+          "minOSVersion": "15.0"
+        }
+      ]
+    },
+    {
+      "name": "Twitch (AdBlock)",
+      "bundleIdentifier": "tv.twitch",
+      "developerName": "Clev",
+      "subtitle": "Twitch with ad blocking",
+      "localizedDescription": "Twitch with TwitchAdBlock 0.1.5. Clean single-tweak build (no conflicting tweaks). Supports custom HTTP proxy (TTV-LOL-PRO / Luminous) for server-side ad blocking. Requires iOS 15.4+.",
+      "iconURL": "https://clev34.github.io/Sidestore/icons/twitch.png",
+      "tintColor": "#9146FF",
+      "category": "photo-video",
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "23.4",
+          "buildVersion": "250592210409451230",
+          "date": "2026-09-19",
+          "localizedDescription": "TwitchAdBlock 0.1.5 build. Minimum iOS 15.4.",
+          "downloadURL": "https://github.com/Clev34/Sidestore/releases/download/v1/twitch-23.4.ipa",
+          "size": 125480289,
+          "minOSVersion": "15.4"
+        }
+      ]
+    },
+    {
+      "name": "Sleep Cycle (Premium)",
+      "bundleIdentifier": "com.lexwarelabs.goodmorning",
+      "developerName": "Sleep Cycle AB",
+      "subtitle": "Sleep Cycle with premium unlocked",
+      "localizedDescription": "Sleep Cycle 6.22.34 with premium features unlocked.",
+      "iconURL": "https://clev34.github.io/Sidestore/icons/sleepcycle.png",
+      "tintColor": "#5CA399",
+      "category": "lifestyle",
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "6.22.34",
+          "buildVersion": "20309",
+          "date": "2026-09-19",
+          "localizedDescription": "Premium unlocked build.",
+          "downloadURL": "https://github.com/Clev34/Sidestore/releases/download/v1/sleepcycle-6.22.34.ipa",
+          "size": 83392798,
+          "minOSVersion": "10.0"
+        }
+      ]
+    },
+    {
+      "name": "Apollo (Reborn)",
+      "bundleIdentifier": "com.christianselig.Apollo",
+      "developerName": "Christian Selig / Apollo Reborn",
+      "subtitle": "Apollo for Reddit, revived",
+      "localizedDescription": "Apollo for Reddit 4.0.1 (Reborn build) - the classic Reddit client, sideloaded.",
+      "iconURL": "https://clev34.github.io/Sidestore/icons/apollo.png",
+      "tintColor": "#2A7BF6",
+      "category": "social",
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "4.0.1",
+          "buildVersion": "303",
+          "date": "2026-10-29",
+          "localizedDescription": "Apollo Reborn 4.0.1 sideloaded build.",
+          "downloadURL": "https://github.com/Clev34/Sidestore/releases/download/v1/apollo-4.0.1.ipa",
+          "size": 97666145,
+          "minOSVersion": "15.0"
+        }
+      ]
+    }
+  ],
+  "news": []
+}
