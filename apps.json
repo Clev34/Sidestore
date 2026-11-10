@@ -7,28 +7,6 @@
   "iconURL": "https://clev34.github.io/Sidestore/icons/logo.png",
   "apps": [
     {
-      "name": "Twitter (NeoFreeBird)",
-      "bundleIdentifier": "com.atebits.Tweetie2",
-      "developerName": "orionblur / BHTwitter",
-      "subtitle": "Twitter with NeoFreeBird + BHTwitter tweaks",
-      "localizedDescription": "Twitter 12.39 patched with NeoFreeBird 7.3.1 (pre-2023 branding, no ads, Blue features) and BHTwitter.",
-      "iconURL": "https://clev34.github.io/Sidestore/icons/twitter.png",
-      "tintColor": "#1DA1F2",
-      "category": "social",
-      "screenshotURLs": [],
-      "versions": [
-        {
-          "version": "12.39",
-          "buildVersion": "20",
-          "date": "2026-10-28",
-          "localizedDescription": "NeoFreeBird 7.3.1 + BHTwitter sideloaded build (12.39).",
-          "downloadURL": "https://github.com/Clev34/Sidestore/releases/download/v1/twitter-12.39.ipa",
-          "size": 273601732,
-          "minOSVersion": "15.0"
-        }
-      ]
-    },
-    {
       "name": "YouTube (MaxTube)",
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "MaxTube",
@@ -100,28 +78,6 @@
           "downloadURL": "https://github.com/Clev34/Sidestore/releases/download/v1/sleepcycle-6.22.34.ipa",
           "size": 83392798,
           "minOSVersion": "10.0"
-        }
-      ]
-    },
-    {
-      "name": "Apollo (Reborn)",
-      "bundleIdentifier": "com.christianselig.Apollo",
-      "developerName": "Christian Selig / Apollo Reborn",
-      "subtitle": "Apollo for Reddit, revived",
-      "localizedDescription": "Apollo for Reddit 4.0.1 (Reborn build) - the classic Reddit client, sideloaded.",
-      "iconURL": "https://clev34.github.io/Sidestore/icons/apollo.png",
-      "tintColor": "#2A7BF6",
-      "category": "social",
-      "screenshotURLs": [],
-      "versions": [
-        {
-          "version": "4.0.1",
-          "buildVersion": "303",
-          "date": "2026-10-29",
-          "localizedDescription": "Apollo Reborn 4.0.1 sideloaded build.",
-          "downloadURL": "https://github.com/Clev34/Sidestore/releases/download/v1/apollo-4.0.1.ipa",
-          "size": 97666145,
-          "minOSVersion": "15.0"
         }
       ]
     }
